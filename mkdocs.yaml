@@ -1,0 +1,86 @@
+site_name: My First Coding (MFC)
+site_description: Free, online learning platform for Phone, Tablet, Computer & Desktop. Learn programming anywhere — Baguio to the World.
+site_author: bluebixt-indiedev
+site_url: https://blue-cannon.github.io/my-first-coding/
+
+repo_name: Blue-Cannon/my-first-coding
+repo_url: https://github.com/Blue-Cannon/my-first-coding
+edit_uri: edit/main/docs/
+
+copyright: Copyright &copy; 2026 Blue-Cannon | Owner bluebixt-indiedev | Learn on Any Device
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+        - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+        - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+        - navigation.tabs
+        - navigation.sections
+        - navigation.expand
+        - navigation.top
+        - navigation.footer
+        - navigation.instant
+        - search.suggest
+        - search.highlight
+        - content.code.copy
+        - content.tabs.link
+  icon:
+    logo: material/laptop
+
+markdown_extensions:
+    - pymdownx.highlight:
+      anchor_linenums: true
+    - pymdownx.inlinehilite
+    - pymdownx.superfences
+    - pymdownx.tabbed:
+      alternate_style: true
+    - admonition
+    - pymdownx.details
+    - pymdownx.emoji
+    - toc:
+      permalink: true
+
+nav:
+    - Home: index.md
+    - Start Here (Any Device):
+        - Welcome to MFC: lessons/00-welcome.md
+        - Learn on Phone: lessons/setup-phone.md
+        - Learn on Tablet: lessons/setup-tablet.md
+        - Learn on Computer: lessons/setup-computer.md
+    - Level 1 - My First Code:
+        - What is Programming?: lessons/level1/01-what-is-programming.md
+        - JavaScript Basics: lessons/level1/02-javascript-basics.md
+        - Variables & Data: lessons/level1/03-variables.md
+        - Logic & If-Else: lessons/level1/04-if-else.md
+        - Loops: lessons/level1/05-loops.md
+        - Project - Calculator (Works on All Devices): lessons/level1/project-calculator.md
+    - Level 2 - My First Website:
+        - HTML Basics: lessons/level2/01-html.md
+        - CSS Responsive (Phone Tablet Desktop): lessons/level2/02-css-responsive.md
+        - JavaScript for Web: lessons/level2/03-js-web.md
+        - Project - Portfolio: lessons/level2/project-portfolio.md
+    - Level 3 - My First Developer:
+        - Git & GitHub: lessons/level3/01-git-github.md
+        - Python Basics: lessons/level3/02-python.md
+        - APIs: lessons/level3/03-apis.md
+        - Project - To-Do App: lessons/level3/project-todo.md
+    - Playground: playground.md
+    - About Blue-Cannon: about.md
+
+plugins:
+    - search
+
+extra:
+  generator: false
