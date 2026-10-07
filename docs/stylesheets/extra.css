@@ -1,0 +1,7 @@
+/* MFC - Works on Phone, Tablet, Desktop */
+.md-grid {
+  max-width: 1280px;
+}
+@media screen and (max-width: 768px) {
+  .md-content { font-size: 16px; } /* Bigger text for phone */
+}
