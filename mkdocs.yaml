@@ -9,7 +9,7 @@ edit_uri: edit/main/docs/
 
 copyright: Copyright &copy; 2026 Blue-Cannon | Owner bluebixt-indiedev | Learn on Any Device
 
-theme:
+  theme:
   name: material
   custom_dir: overrides
   palette:
