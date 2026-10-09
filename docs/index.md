@@ -7,8 +7,8 @@ begginers and/or who don't know to code. Start From Level 0 to Level Up! Now, Th
 how to code in all devices you have. Inspired by freeCodeCamp and Khan Academy but it explains,
 memorize, troubleshooting, use it. Just stop using AI Coding and is not allowed. 
 
-## Why?
-Because like school that are allowed gadgets but it need to make a code or file like hello.py but Khan Academy teaches a video, and freeCodeCamp used article. But combined Khan Academy and freeCodeCamp is My First Coding, now you can read and watch video from YouTube. Also AI Coding can teach you hard but no breakdowns? Use My First Coding.
+## What will first Teaches?
+It will teach a [Python](https://python.org) first, a more readable, plain english, and easiest. Go to How to Learn so you can get started. 
 
 ## How to Learn?
 Tap the "Next Button" it goes to the next page.
