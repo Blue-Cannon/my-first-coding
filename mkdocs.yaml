@@ -1,11 +1,11 @@
 site_name: My First Coding (MFC)
 site_description: Free, online learning platform for Phone, Tablet, Computer & Desktop. Learn programming anywhere — Baguio to the World.
 site_author: bluebixt-indiedev
-site_url: https://blue-cannon.github.io/my-first-coding/
+site_url: "https://blue-cannon.github.io/my-first-coding/"
 
 repo_name: Blue-Cannon/my-first-coding
-repo_url: https://github.com/Blue-Cannon/my-first-coding
-edit_uri: edit/main/docs/
+repo_url: "https://github.com/Blue-Cannon/my-first-coding"
+edit_uri: "edit/main/docs/"
 
 copyright: Copyright &copy; 2026 Blue-Cannon | Owner bluebixt-indiedev | Learn on Any Device
 
