@@ -61,7 +61,7 @@ nav:
         - Learn on Computer: lessons/setup-computer.md
     - Level 1 - My First Code:
         - What is Programming?: lessons/level1/01-what-is-programming.md
-        - JavaScript Basics: lessons/level1/02-javascript-basics.md
+        - Python Basics: lessons/level1/02-javascript-basics.md
         - Variables & Data: lessons/level1/03-variables.md
         - Logic & If-Else: lessons/level1/04-if-else.md
         - Loops: lessons/level1/05-loops.md
