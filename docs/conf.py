@@ -30,6 +30,7 @@ release = "0.1.0"
 extensions = [
     "myst_parser", # Enable Markdown by using MyST Parser so much easier for wiki page
     "sphinx.ext.autodoc",  # Core library for generating docs from docstrings
+    "sphinxcontrib.youtube", # Enable YouTube Embed so people can watch a video
     "sphinx.ext.napoleon",  # Support for Google or NumPy styled docstrings
     "sphinx.ext.viewcode",  # Add links to highlighted source code
     "sphinx.ext.todo",  # Support for todo items
