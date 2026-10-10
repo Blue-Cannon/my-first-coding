@@ -7,8 +7,15 @@ begginers and/or who don't know to code. Start From Level 0 to Level Up! Now, Th
 how to code in all devices you have. Inspired by freeCodeCamp and Khan Academy but it explains,
 memorize, troubleshooting, use it. Just stop using AI Coding and is not allowed. 
 
-## What will first Teaches?
-It will teach a [Python](https://python.org) first, a more readable, plain english, and easiest. Go to How to Learn so you can get started. 
+## Can I Sign Up or Log in?
+No Sign Up and Log In. So you can go straight ahead coding.
+
+## But what Editor what will I test?
+Use QuickEdit or Download QuickEdit on Playstore or App Store. QuickEdit is the best for testing a file and folder.
+
+## Update
+My First Coding Author:
+We change mkDocs into ReadTheDocs
 
 ## How to Learn?
 Tap the "Next Button" it goes to the next page.
