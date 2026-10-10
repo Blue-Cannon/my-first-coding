@@ -7,9 +7,10 @@ My First Coding is a free, online learning platform that teaches computer progra
    :maxdepth: 2
    :caption: Contents:
 
-   modules
-   installation
-   usage
+   setup-phone
+   setup-computer
+   setup-tablet
+   what-is-python
 
 Indices and tables
 
