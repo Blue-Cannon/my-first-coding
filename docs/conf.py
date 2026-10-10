@@ -28,12 +28,18 @@ release = "0.1.0"
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = [
+    "myst_parser", # Enable Markdown by using MyST Parser so much easier for wiki page
     "sphinx.ext.autodoc",  # Core library for generating docs from docstrings
     "sphinx.ext.napoleon",  # Support for Google or NumPy styled docstrings
     "sphinx.ext.viewcode",  # Add links to highlighted source code
     "sphinx.ext.todo",  # Support for todo items
     "sphinx.ext.githubpages",  # Publish docs to GitHub Pages easily
 ]
+
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'markdown',
+}
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
