@@ -7,6 +7,5 @@ My First Coding helps you to learn anything you want to do like Programming Lang
 :maxdepth: 2
 :caption: Contents:
 
-00-setup
-01-python
+what-is-py
 ```
