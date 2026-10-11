@@ -20,11 +20,11 @@ Van Rossum designed Python around simplicity, readability, and versatility. The 
 Even the logo has a family connection: his brother Just van Rossum, a type designer, designed the typeface used in the " Python Powered" logo.
 
 ## Career
-• CWI, NIST, CNRI, BeOpen, Zope - early research and open-source work in the 80s and 90s.
-• Google (2005-2012): Distinguished Engineer, spending half his time on Python.
-• Dropbox (2013-2019): Joined because Dropbox is heavily built on Python. He was there from 2013 to 2019.
-• Retirement #1: Late 2019.
-• Microsoft (2020-present): Came out of retirement in November 2020 to join Microsoft's Developer Division as Distinguished Engineer. His tweet at the time: "I decided that retirement was boring..." At Microsoft he led work to make Python faster, including the effort that produced major speed gains from Python 3.11 onward.
+- CWI, NIST, CNRI, BeOpen, Zope - early research and open-source work in the 80s and 90s.
+- Google (2005-2012): Distinguished Engineer, spending half his time on Python.
+- Dropbox (2013-2019): Joined because Dropbox is heavily built on Python. He was there from 2013 to 2019.
+- Retirement #1: Late 2019.
+- Microsoft (2020-present): Came out of retirement in November 2020 to join Microsoft's Developer Division as Distinguished Engineer. His tweet at the time: "I decided that retirement was boring..." At Microsoft he led work to make Python faster, including the effort that produced major speed gains from Python 3.11 onward.
 
 ## Home
 He lives in Belmont, California with his wife Kim Knapp and their son Orlijn, and is still active in the Python community.
@@ -43,10 +43,10 @@ He started coding in December 1989. He was sitting at home, and because he was a
 It wasn't meant to be serious at first. The goal was just to have fun building something.
 
 Timeline:
-• Dec 1989 - Feb 1991: Built in his spare time 
-• Feb 1991: First public release, Python 0.9.0, posted to the newsgroup alt.sources. It already had functions, exception handling, and a module system.   
-• Jan 1994: Python 1.0 adds lambda, map, filter, reduce • Oct 2000: Python 2.0 brings list comprehensions and a real community development process 
-• Dec 2008: Python 3.0, a big clean-up that broke backwards compatibility to make the language better long-term 
+- Dec 1989 - Feb 1991: Built in his spare time 
+- Feb 1991: First public release, Python 0.9.0, posted to the newsgroup alt.sources. It already had functions, exception handling, and a module system.   
+- Jan 1994: Python 1.0 adds lambda, map, filter, reduce • Oct 2000: Python 2.0 brings list comprehensions and a real community development process 
+- Dec 2008: Python 3.0, a big clean-up that broke backwards compatibility to make the language better long-term 
 From a one-man Christmas hack to keep from being bored, to the language that now powers AI, YouTube, Instagram, and most of the science you use — that's Python's beginning.
 
 He famously said he wanted to bridge the gap between C and shell scripting. Something powerful like C, but easy to write like a shell script.
