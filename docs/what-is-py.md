@@ -12,6 +12,7 @@ much easy to learn. Python was developed by Guido Van Rossum. Guido Van Rossum i
 that who want to make python as much easy to learn. Guido Van Rossum born on 31 January 1956 in the Netherlands. He got his Master's in mathematics and computer science from the University of Amsterdam in 1982.
 Creator of Python, one of the major programming languages on and off the web. He started it in December 1989 as a hobby project during the Christmas holidays while at CWI (Centrum Wiskunde & Informatica) in the Netherlands, as a successor to the ABC language.
 BDFL - Benevolent Dictator For Life, a title taken from a Monty Python skit. It means he oversaw Python's development and made final decisions where necessary. He stepped down from that role in July 2018.
+```{youtube} M805RJ3g0Xl1RlVy```
 
 ## Mattered
 Van Rossum designed Python around simplicity, readability, and versatility. The idea was code that looks almost like English and is easy to learn, which is why it exploded in web development, data science, and artificial intelligence.  
