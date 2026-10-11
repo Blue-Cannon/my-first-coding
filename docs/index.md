@@ -9,4 +9,11 @@ My First Coding helps you to learn anything you want to do like Programming Lang
 
 STATUS
 what-is-py
+py-create-file
+python-basics
+python-basics1
+python-basics2
+python-basics3
+python-basics4
+python-basics5
 ```
