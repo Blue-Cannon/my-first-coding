@@ -8,7 +8,6 @@ My First Coding helps you to learn anything you want to do like Programming Lang
 :caption: Contents:
 
 STATUS
-what-is-py
 py-create-file
 python-basics
 python-basics1
