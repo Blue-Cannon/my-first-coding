@@ -10,7 +10,6 @@ jobs:
     steps: 
       - uses: actions/checkout@v4
 
-      - name: Full Deploy 
       - run: |
           git clone --depth 1 https://github.com/Blue-Cannon/my-first-coding.git . 
           git fetch origin --force --prune --prune-tags --depth 50 HEAD 
